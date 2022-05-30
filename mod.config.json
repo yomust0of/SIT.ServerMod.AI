@@ -1,0 +1,10 @@
+{
+	"name": "SIT-AI",
+	"author": "Paulov",
+	"version": "1.0.0",
+	"license": "MIT",
+	"src": {
+		"script.js": "TamperModLoad"
+	},
+	"required": []
+}
