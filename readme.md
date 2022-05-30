@@ -4,3 +4,7 @@
 
 # Compatibility
 This mod should work with any 12.12.* JustEmuTarkov build
+
+# How to install
+- Place all files into user/mods/SIT-AI
+- Restart Server
